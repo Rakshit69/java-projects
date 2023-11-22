@@ -6,7 +6,7 @@ public class GameFrame extends JFrame {
         this.add(new Gamepanel());
         this.setResizable(false);
         this.setTitle("SNAKE GAME");
-        this.setFont(new Font("ink free",0,31));
+      //  this.setFont(new Font("ink free",0,31));
         this.setDefaultCloseOperation(3);
         this.pack();
         this.setVisible(true);
